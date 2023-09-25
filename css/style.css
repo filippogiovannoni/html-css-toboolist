@@ -20,7 +20,7 @@
 
 body {
     font-family: sans-serif;
-    width: 900px;
+    width: 1200px;
     margin: auto;
     background-color: var(--todoo-grey);
 }
@@ -37,8 +37,43 @@ body {
     font-size: 40px;
 }
 
-
 .image_logo {
     vertical-align: middle;
 }
 
+main {
+    background-color: var(--todoo-white);
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+
+.space {
+    height: 3.5rem;
+    background-color: var(--todoo-grey);
+}
+
+.main_header {
+    height: 3rem;
+    border-bottom: solid var(--todoo-grey);
+}
+
+button {
+    background-color: var(--todoo-lightblue);
+    color: var(--todoo-grey);
+    padding: 0.3rem;
+    border-radius: 10%;
+}
+
+#addtask {
+    margin-left: 3rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.5rem;
+    border: 0;
+}
+
+#addsection {
+    background-color: var(--todoo-white);
+    border-color: var(--todoo-grey);
+    color: darkgray;
+}
