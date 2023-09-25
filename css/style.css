@@ -77,3 +77,99 @@ button {
     border-color: var(--todoo-grey);
     color: darkgray;
 }
+
+.list_title {
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+}
+
+.list_description {
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+
+}
+
+.editorial {
+    font-size: 10px;
+    color: var(--todoo-white);
+    background-color: var(--todoo-lightblue);
+    border-radius: 20%;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.25rem;
+}
+
+.tic {
+    color: var(--todoo-green);
+    padding-right: 0.5rem;
+}
+
+.description {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.q1 {
+    font-size: 10px;
+    color: var(--todoo-white);
+    background-color: var(--todoo-purple);
+    border-radius: 20%;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.25rem;
+}
+
+.cross {
+    color: red;
+    padding-right: 0.6rem;
+}
+
+.recruiting {
+    font-size: 10px;
+    color: var(--todoo-white);
+    background-color: var(--todoo-green);
+    border-radius: 20%;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.25rem;
+
+}
+
+.mobile {
+    font-size: 10px;
+    color: var(--todoo-white);
+    background-color: var(--todoo-orange);
+    border-radius: 20%;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.25rem;
+
+}
+
+.website {
+    font-size: 10px;
+    color: var(--todoo-white);
+    background-color: var(--todoo-pink);
+    border-radius: 20%;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.25rem;
+}
+
+.sales {
+    font-size: 10px;
+    color: var(--todoo-white);
+    background-color: var(--todoo-lightgreen);
+    border-radius: 20%;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.25rem;
+}
